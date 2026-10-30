@@ -1,0 +1,723 @@
+{
+  "duration": 51.552,
+  "sentences": [
+    {
+      "start": 0.1,
+      "duration": 4.607,
+      "end": 4.707,
+      "text": "What ACTUALLY makes that loud, satisfying crack when you pop your knuckles?"
+    },
+    {
+      "start": 4.657,
+      "duration": 6.201,
+      "end": 10.858,
+      "text": "Most people think bones are grinding together, or that this causes arthritis... but that's completely wrong."
+    },
+    {
+      "start": 10.858,
+      "duration": 6.716,
+      "end": 17.574,
+      "text": "Inside your finger joints, two bones meet inside an airtight capsule filled with a slippery liquid called synovial fluid."
+    },
+    {
+      "start": 17.574,
+      "duration": 4.35,
+      "end": 21.924,
+      "text": "When you pull or bend your finger, you force this capsule to stretch open."
+    },
+    {
+      "start": 21.924,
+      "duration": 2.647,
+      "end": 24.571,
+      "text": "This creates an instant vacuum!"
+    },
+    {
+      "start": 24.571,
+      "duration": 7.439,
+      "end": 32.01,
+      "text": "Under this extreme negative pressure, dissolved nitrogen gas rapidly boils out of the fluid, forming a microscopic bubble."
+    },
+    {
+      "start": 32.01,
+      "duration": 7.206,
+      "end": 39.216,
+      "text": "Within milliseconds, the surrounding fluid rushes back in, violently collapsing the bubble and firing an acoustic shockwave."
+    },
+    {
+      "start": 39.216,
+      "duration": 2.904,
+      "end": 42.12,
+      "text": "That shockwave is the loud pop you hear!"
+    },
+    {
+      "start": 42.12,
+      "duration": 2.194,
+      "end": 44.314,
+      "text": "And as for arthritis?"
+    },
+    {
+      "start": 44.314,
+      "duration": 4.228,
+      "end": 48.542,
+      "text": "One doctor cracked only his left hand every day for sixty years."
+    },
+    {
+      "start": 48.542,
+      "duration": 2.953,
+      "end": 51.495,
+      "text": "Both hands remained completely healthy!"
+    }
+  ],
+  "words": [
+    {
+      "word": "What",
+      "start": 0.1,
+      "end": 0.388
+    },
+    {
+      "word": "ACTUALLY",
+      "start": 0.388,
+      "end": 0.964
+    },
+    {
+      "word": "makes",
+      "start": 0.964,
+      "end": 1.324
+    },
+    {
+      "word": "that",
+      "start": 1.324,
+      "end": 1.612
+    },
+    {
+      "word": "loud,",
+      "start": 1.612,
+      "end": 1.972
+    },
+    {
+      "word": "satisfying",
+      "start": 1.972,
+      "end": 2.691
+    },
+    {
+      "word": "crack",
+      "start": 2.691,
+      "end": 3.051
+    },
+    {
+      "word": "when",
+      "start": 3.051,
+      "end": 3.339
+    },
+    {
+      "word": "you",
+      "start": 3.339,
+      "end": 3.555
+    },
+    {
+      "word": "pop",
+      "start": 3.555,
+      "end": 3.771
+    },
+    {
+      "word": "your",
+      "start": 3.771,
+      "end": 4.059
+    },
+    {
+      "word": "knuckles?",
+      "start": 4.059,
+      "end": 4.707
+    },
+    {
+      "word": "Most",
+      "start": 4.657,
+      "end": 4.924
+    },
+    {
+      "word": "people",
+      "start": 4.924,
+      "end": 5.324
+    },
+    {
+      "word": "think",
+      "start": 5.324,
+      "end": 5.657
+    },
+    {
+      "word": "bones",
+      "start": 5.657,
+      "end": 5.991
+    },
+    {
+      "word": "are",
+      "start": 5.991,
+      "end": 6.191
+    },
+    {
+      "word": "grinding",
+      "start": 6.191,
+      "end": 6.724
+    },
+    {
+      "word": "together,",
+      "start": 6.724,
+      "end": 7.324
+    },
+    {
+      "word": "or",
+      "start": 7.324,
+      "end": 7.457
+    },
+    {
+      "word": "that",
+      "start": 7.457,
+      "end": 7.724
+    },
+    {
+      "word": "this",
+      "start": 7.724,
+      "end": 7.991
+    },
+    {
+      "word": "causes",
+      "start": 7.991,
+      "end": 8.391
+    },
+    {
+      "word": "arthritis...",
+      "start": 8.391,
+      "end": 9.191
+    },
+    {
+      "word": "but",
+      "start": 9.191,
+      "end": 9.391
+    },
+    {
+      "word": "that's",
+      "start": 9.391,
+      "end": 9.791
+    },
+    {
+      "word": "completely",
+      "start": 9.791,
+      "end": 10.458
+    },
+    {
+      "word": "wrong.",
+      "start": 10.458,
+      "end": 10.858
+    },
+    {
+      "word": "Inside",
+      "start": 10.858,
+      "end": 11.249
+    },
+    {
+      "word": "your",
+      "start": 11.249,
+      "end": 11.51
+    },
+    {
+      "word": "finger",
+      "start": 11.51,
+      "end": 11.901
+    },
+    {
+      "word": "joints,",
+      "start": 11.901,
+      "end": 12.358
+    },
+    {
+      "word": "two",
+      "start": 12.358,
+      "end": 12.553
+    },
+    {
+      "word": "bones",
+      "start": 12.553,
+      "end": 12.879
+    },
+    {
+      "word": "meet",
+      "start": 12.879,
+      "end": 13.14
+    },
+    {
+      "word": "inside",
+      "start": 13.14,
+      "end": 13.531
+    },
+    {
+      "word": "an",
+      "start": 13.531,
+      "end": 13.662
+    },
+    {
+      "word": "airtight",
+      "start": 13.662,
+      "end": 14.183
+    },
+    {
+      "word": "capsule",
+      "start": 14.183,
+      "end": 14.64
+    },
+    {
+      "word": "filled",
+      "start": 14.64,
+      "end": 15.031
+    },
+    {
+      "word": "with",
+      "start": 15.031,
+      "end": 15.292
+    },
+    {
+      "word": "a",
+      "start": 15.292,
+      "end": 15.357
+    },
+    {
+      "word": "slippery",
+      "start": 15.357,
+      "end": 15.879
+    },
+    {
+      "word": "liquid",
+      "start": 15.879,
+      "end": 16.27
+    },
+    {
+      "word": "called",
+      "start": 16.27,
+      "end": 16.661
+    },
+    {
+      "word": "synovial",
+      "start": 16.661,
+      "end": 17.183
+    },
+    {
+      "word": "fluid.",
+      "start": 17.183,
+      "end": 17.574
+    },
+    {
+      "word": "When",
+      "start": 17.574,
+      "end": 17.859
+    },
+    {
+      "word": "you",
+      "start": 17.859,
+      "end": 18.073
+    },
+    {
+      "word": "pull",
+      "start": 18.073,
+      "end": 18.358
+    },
+    {
+      "word": "or",
+      "start": 18.358,
+      "end": 18.501
+    },
+    {
+      "word": "bend",
+      "start": 18.501,
+      "end": 18.786
+    },
+    {
+      "word": "your",
+      "start": 18.786,
+      "end": 19.072
+    },
+    {
+      "word": "finger,",
+      "start": 19.072,
+      "end": 19.571
+    },
+    {
+      "word": "you",
+      "start": 19.571,
+      "end": 19.785
+    },
+    {
+      "word": "force",
+      "start": 19.785,
+      "end": 20.141
+    },
+    {
+      "word": "this",
+      "start": 20.141,
+      "end": 20.426
+    },
+    {
+      "word": "capsule",
+      "start": 20.426,
+      "end": 20.926
+    },
+    {
+      "word": "to",
+      "start": 20.926,
+      "end": 21.068
+    },
+    {
+      "word": "stretch",
+      "start": 21.068,
+      "end": 21.567
+    },
+    {
+      "word": "open.",
+      "start": 21.567,
+      "end": 21.924
+    },
+    {
+      "word": "This",
+      "start": 21.924,
+      "end": 22.316
+    },
+    {
+      "word": "creates",
+      "start": 22.316,
+      "end": 23.002
+    },
+    {
+      "word": "an",
+      "start": 23.002,
+      "end": 23.198
+    },
+    {
+      "word": "instant",
+      "start": 23.198,
+      "end": 23.885
+    },
+    {
+      "word": "vacuum!",
+      "start": 23.885,
+      "end": 24.571
+    },
+    {
+      "word": "Under",
+      "start": 24.571,
+      "end": 24.925
+    },
+    {
+      "word": "this",
+      "start": 24.925,
+      "end": 25.209
+    },
+    {
+      "word": "extreme",
+      "start": 25.209,
+      "end": 25.705
+    },
+    {
+      "word": "negative",
+      "start": 25.705,
+      "end": 26.271
+    },
+    {
+      "word": "pressure,",
+      "start": 26.271,
+      "end": 26.909
+    },
+    {
+      "word": "dissolved",
+      "start": 26.909,
+      "end": 27.547
+    },
+    {
+      "word": "nitrogen",
+      "start": 27.547,
+      "end": 28.113
+    },
+    {
+      "word": "gas",
+      "start": 28.113,
+      "end": 28.326
+    },
+    {
+      "word": "rapidly",
+      "start": 28.326,
+      "end": 28.822
+    },
+    {
+      "word": "boils",
+      "start": 28.822,
+      "end": 29.176
+    },
+    {
+      "word": "out",
+      "start": 29.176,
+      "end": 29.389
+    },
+    {
+      "word": "of",
+      "start": 29.389,
+      "end": 29.53
+    },
+    {
+      "word": "the",
+      "start": 29.53,
+      "end": 29.743
+    },
+    {
+      "word": "fluid,",
+      "start": 29.743,
+      "end": 30.168
+    },
+    {
+      "word": "forming",
+      "start": 30.168,
+      "end": 30.664
+    },
+    {
+      "word": "a",
+      "start": 30.664,
+      "end": 30.735
+    },
+    {
+      "word": "microscopic",
+      "start": 30.735,
+      "end": 31.514
+    },
+    {
+      "word": "bubble.",
+      "start": 31.514,
+      "end": 32.01
+    },
+    {
+      "word": "Within",
+      "start": 32.01,
+      "end": 32.41
+    },
+    {
+      "word": "milliseconds,",
+      "start": 32.41,
+      "end": 33.278
+    },
+    {
+      "word": "the",
+      "start": 33.278,
+      "end": 33.478
+    },
+    {
+      "word": "surrounding",
+      "start": 33.478,
+      "end": 34.212
+    },
+    {
+      "word": "fluid",
+      "start": 34.212,
+      "end": 34.545
+    },
+    {
+      "word": "rushes",
+      "start": 34.545,
+      "end": 34.946
+    },
+    {
+      "word": "back",
+      "start": 34.946,
+      "end": 35.213
+    },
+    {
+      "word": "in,",
+      "start": 35.213,
+      "end": 35.413
+    },
+    {
+      "word": "violently",
+      "start": 35.413,
+      "end": 36.013
+    },
+    {
+      "word": "collapsing",
+      "start": 36.013,
+      "end": 36.681
+    },
+    {
+      "word": "the",
+      "start": 36.681,
+      "end": 36.881
+    },
+    {
+      "word": "bubble",
+      "start": 36.881,
+      "end": 37.281
+    },
+    {
+      "word": "and",
+      "start": 37.281,
+      "end": 37.481
+    },
+    {
+      "word": "firing",
+      "start": 37.481,
+      "end": 37.882
+    },
+    {
+      "word": "an",
+      "start": 37.882,
+      "end": 38.015
+    },
+    {
+      "word": "acoustic",
+      "start": 38.015,
+      "end": 38.549
+    },
+    {
+      "word": "shockwave.",
+      "start": 38.549,
+      "end": 39.216
+    },
+    {
+      "word": "That",
+      "start": 39.216,
+      "end": 39.568
+    },
+    {
+      "word": "shockwave",
+      "start": 39.568,
+      "end": 40.36
+    },
+    {
+      "word": "is",
+      "start": 40.36,
+      "end": 40.536
+    },
+    {
+      "word": "the",
+      "start": 40.536,
+      "end": 40.8
+    },
+    {
+      "word": "loud",
+      "start": 40.8,
+      "end": 41.152
+    },
+    {
+      "word": "pop",
+      "start": 41.152,
+      "end": 41.416
+    },
+    {
+      "word": "you",
+      "start": 41.416,
+      "end": 41.68
+    },
+    {
+      "word": "hear!",
+      "start": 41.68,
+      "end": 42.12
+    },
+    {
+      "word": "And",
+      "start": 42.12,
+      "end": 42.486
+    },
+    {
+      "word": "as",
+      "start": 42.486,
+      "end": 42.729
+    },
+    {
+      "word": "for",
+      "start": 42.729,
+      "end": 43.095
+    },
+    {
+      "word": "arthritis?",
+      "start": 43.095,
+      "end": 44.314
+    },
+    {
+      "word": "One",
+      "start": 44.314,
+      "end": 44.553
+    },
+    {
+      "word": "doctor",
+      "start": 44.553,
+      "end": 45.032
+    },
+    {
+      "word": "cracked",
+      "start": 45.032,
+      "end": 45.59
+    },
+    {
+      "word": "only",
+      "start": 45.59,
+      "end": 45.909
+    },
+    {
+      "word": "his",
+      "start": 45.909,
+      "end": 46.149
+    },
+    {
+      "word": "left",
+      "start": 46.149,
+      "end": 46.468
+    },
+    {
+      "word": "hand",
+      "start": 46.468,
+      "end": 46.787
+    },
+    {
+      "word": "every",
+      "start": 46.787,
+      "end": 47.186
+    },
+    {
+      "word": "day",
+      "start": 47.186,
+      "end": 47.425
+    },
+    {
+      "word": "for",
+      "start": 47.425,
+      "end": 47.664
+    },
+    {
+      "word": "sixty",
+      "start": 47.664,
+      "end": 48.063
+    },
+    {
+      "word": "years.",
+      "start": 48.063,
+      "end": 48.542
+    },
+    {
+      "word": "Both",
+      "start": 48.542,
+      "end": 48.879
+    },
+    {
+      "word": "hands",
+      "start": 48.879,
+      "end": 49.301
+    },
+    {
+      "word": "remained",
+      "start": 49.301,
+      "end": 49.976
+    },
+    {
+      "word": "completely",
+      "start": 49.976,
+      "end": 50.82
+    },
+    {
+      "word": "healthy!",
+      "start": 50.82,
+      "end": 51.495
+    }
+  ]
+}

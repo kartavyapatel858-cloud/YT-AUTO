@@ -1,0 +1,949 @@
+{
+  "duration": 54.449,
+  "sentences": [
+    {
+      "start": 0.1,
+      "duration": 5.171,
+      "end": 5.271,
+      "text": "Have you ever sat on your foot, stood up, and felt like your leg was made of dead rubber?"
+    },
+    {
+      "start": 5.221,
+      "duration": 5.944,
+      "end": 11.164,
+      "text": "Then, seconds later, an intense burning prickle rushes in like thousands of tiny electric needles!"
+    },
+    {
+      "start": 11.164,
+      "duration": 4.877,
+      "end": 16.042,
+      "text": "Most people think you cut off blood circulation... but that's actually a myth."
+    },
+    {
+      "start": 16.042,
+      "duration": 5.699,
+      "end": 21.74,
+      "text": "Running through your leg are major nerve bundles packed with thousands of microscopic sensory fibers."
+    },
+    {
+      "start": 21.74,
+      "duration": 4.216,
+      "end": 25.956,
+      "text": "When you sit awkwardly, you physically crush this nerve against bone."
+    },
+    {
+      "start": 25.956,
+      "duration": 5.968,
+      "end": 31.924,
+      "text": "This compression starves the nerve fibers of oxygen, choking off the electrical signals to your brain."
+    },
+    {
+      "start": 31.924,
+      "duration": 2.01,
+      "end": 33.934,
+      "text": "Your foot goes numb."
+    },
+    {
+      "start": 33.934,
+      "duration": 4.988,
+      "end": 38.922,
+      "text": "When you finally stand up and release the pressure, oxygen suddenly floods back in!"
+    },
+    {
+      "start": 38.922,
+      "duration": 6.397,
+      "end": 45.319,
+      "text": "As the starved neurons reboot, they fire wildly and uncontrollably like chaotic static electricity!"
+    },
+    {
+      "start": 45.319,
+      "duration": 9.13,
+      "end": 54.449,
+      "text": "Your brain can't decode this sudden avalanche of random signals, so it translates the chaos as that sharp, prickly burning sensation until the nerve pathway stabilizes!"
+    }
+  ],
+  "words": [
+    {
+      "word": "Have",
+      "punctuated": "Have",
+      "start": 0.1,
+      "end": 0.404
+    },
+    {
+      "word": "you",
+      "punctuated": "you",
+      "start": 0.404,
+      "end": 0.632
+    },
+    {
+      "word": "ever",
+      "punctuated": "ever",
+      "start": 0.632,
+      "end": 0.936
+    },
+    {
+      "word": "sat",
+      "punctuated": "sat",
+      "start": 0.936,
+      "end": 1.164
+    },
+    {
+      "word": "on",
+      "punctuated": "on",
+      "start": 1.164,
+      "end": 1.344
+    },
+    {
+      "word": "your",
+      "punctuated": "your",
+      "start": 1.344,
+      "end": 1.648
+    },
+    {
+      "word": "foot",
+      "punctuated": "foot,",
+      "start": 1.648,
+      "end": 1.952
+    },
+    {
+      "word": "stood",
+      "punctuated": "stood",
+      "start": 1.952,
+      "end": 2.332
+    },
+    {
+      "word": "up",
+      "punctuated": "up,",
+      "start": 2.332,
+      "end": 2.512
+    },
+    {
+      "word": "and",
+      "punctuated": "and",
+      "start": 2.512,
+      "end": 2.74
+    },
+    {
+      "word": "felt",
+      "punctuated": "felt",
+      "start": 2.74,
+      "end": 3.044
+    },
+    {
+      "word": "like",
+      "punctuated": "like",
+      "start": 3.044,
+      "end": 3.348
+    },
+    {
+      "word": "your",
+      "punctuated": "your",
+      "start": 3.348,
+      "end": 3.652
+    },
+    {
+      "word": "leg",
+      "punctuated": "leg",
+      "start": 3.652,
+      "end": 3.88
+    },
+    {
+      "word": "was",
+      "punctuated": "was",
+      "start": 3.88,
+      "end": 4.108
+    },
+    {
+      "word": "made",
+      "punctuated": "made",
+      "start": 4.108,
+      "end": 4.412
+    },
+    {
+      "word": "of",
+      "punctuated": "of",
+      "start": 4.412,
+      "end": 4.592
+    },
+    {
+      "word": "dead",
+      "punctuated": "dead",
+      "start": 4.592,
+      "end": 4.896
+    },
+    {
+      "word": "rubber",
+      "punctuated": "rubber?",
+      "start": 4.896,
+      "end": 5.271
+    },
+    {
+      "word": "Then",
+      "punctuated": "Then,",
+      "start": 5.221,
+      "end": 5.515
+    },
+    {
+      "word": "seconds",
+      "punctuated": "seconds",
+      "start": 5.515,
+      "end": 6.029
+    },
+    {
+      "word": "later",
+      "punctuated": "later,",
+      "start": 6.029,
+      "end": 6.396
+    },
+    {
+      "word": "an",
+      "punctuated": "an",
+      "start": 6.396,
+      "end": 6.576
+    },
+    {
+      "word": "intense",
+      "punctuated": "intense",
+      "start": 6.576,
+      "end": 7.09
+    },
+    {
+      "word": "burning",
+      "punctuated": "burning",
+      "start": 7.09,
+      "end": 7.604
+    },
+    {
+      "word": "prickle",
+      "punctuated": "prickle",
+      "start": 7.604,
+      "end": 8.118
+    },
+    {
+      "word": "rushes",
+      "punctuated": "rushes",
+      "start": 8.118,
+      "end": 8.558
+    },
+    {
+      "word": "in",
+      "punctuated": "in",
+      "start": 8.558,
+      "end": 8.738
+    },
+    {
+      "word": "like",
+      "punctuated": "like",
+      "start": 8.738,
+      "end": 9.032
+    },
+    {
+      "word": "thousands",
+      "punctuated": "thousands",
+      "start": 9.032,
+      "end": 9.692
+    },
+    {
+      "word": "of",
+      "punctuated": "of",
+      "start": 9.692,
+      "end": 9.872
+    },
+    {
+      "word": "tiny",
+      "punctuated": "tiny",
+      "start": 9.872,
+      "end": 10.166
+    },
+    {
+      "word": "electric",
+      "punctuated": "electric",
+      "start": 10.166,
+      "end": 10.753
+    },
+    {
+      "word": "needles",
+      "punctuated": "needles!",
+      "start": 10.753,
+      "end": 11.164
+    },
+    {
+      "word": "Most",
+      "punctuated": "Most",
+      "start": 11.164,
+      "end": 11.479
+    },
+    {
+      "word": "people",
+      "punctuated": "people",
+      "start": 11.479,
+      "end": 11.951
+    },
+    {
+      "word": "think",
+      "punctuated": "think",
+      "start": 11.951,
+      "end": 12.344
+    },
+    {
+      "word": "you",
+      "punctuated": "you",
+      "start": 12.344,
+      "end": 12.58
+    },
+    {
+      "word": "cut",
+      "punctuated": "cut",
+      "start": 12.58,
+      "end": 12.816
+    },
+    {
+      "word": "off",
+      "punctuated": "off",
+      "start": 12.816,
+      "end": 13.052
+    },
+    {
+      "word": "blood",
+      "punctuated": "blood",
+      "start": 13.052,
+      "end": 13.445
+    },
+    {
+      "word": "circulation",
+      "punctuated": "circulation...",
+      "start": 13.445,
+      "end": 14.31
+    },
+    {
+      "word": "but",
+      "punctuated": "but",
+      "start": 14.31,
+      "end": 14.546
+    },
+    {
+      "word": "that's",
+      "punctuated": "that's",
+      "start": 14.546,
+      "end": 15.018
+    },
+    {
+      "word": "actually",
+      "punctuated": "actually",
+      "start": 15.018,
+      "end": 15.647
+    },
+    {
+      "word": "a",
+      "punctuated": "a",
+      "start": 15.647,
+      "end": 15.827
+    },
+    {
+      "word": "myth",
+      "punctuated": "myth.",
+      "start": 15.827,
+      "end": 16.042
+    },
+    {
+      "word": "Running",
+      "punctuated": "Running",
+      "start": 16.042,
+      "end": 16.506
+    },
+    {
+      "word": "through",
+      "punctuated": "through",
+      "start": 16.506,
+      "end": 16.97
+    },
+    {
+      "word": "your",
+      "punctuated": "your",
+      "start": 16.97,
+      "end": 17.235
+    },
+    {
+      "word": "leg",
+      "punctuated": "leg",
+      "start": 17.235,
+      "end": 17.434
+    },
+    {
+      "word": "are",
+      "punctuated": "are",
+      "start": 17.434,
+      "end": 17.633
+    },
+    {
+      "word": "major",
+      "punctuated": "major",
+      "start": 17.633,
+      "end": 17.964
+    },
+    {
+      "word": "nerve",
+      "punctuated": "nerve",
+      "start": 17.964,
+      "end": 18.295
+    },
+    {
+      "word": "bundles",
+      "punctuated": "bundles",
+      "start": 18.295,
+      "end": 18.759
+    },
+    {
+      "word": "packed",
+      "punctuated": "packed",
+      "start": 18.759,
+      "end": 19.157
+    },
+    {
+      "word": "with",
+      "punctuated": "with",
+      "start": 19.157,
+      "end": 19.422
+    },
+    {
+      "word": "thousands",
+      "punctuated": "thousands",
+      "start": 19.422,
+      "end": 20.018
+    },
+    {
+      "word": "of",
+      "punctuated": "of",
+      "start": 20.018,
+      "end": 20.198
+    },
+    {
+      "word": "microscopic",
+      "punctuated": "microscopic",
+      "start": 20.198,
+      "end": 20.927
+    },
+    {
+      "word": "sensory",
+      "punctuated": "sensory",
+      "start": 20.927,
+      "end": 21.391
+    },
+    {
+      "word": "fibers",
+      "punctuated": "fibers.",
+      "start": 21.391,
+      "end": 21.74
+    },
+    {
+      "word": "When",
+      "punctuated": "When",
+      "start": 21.74,
+      "end": 22.036
+    },
+    {
+      "word": "you",
+      "punctuated": "you",
+      "start": 22.036,
+      "end": 22.258
+    },
+    {
+      "word": "sit",
+      "punctuated": "sit",
+      "start": 22.258,
+      "end": 22.48
+    },
+    {
+      "word": "awkwardly",
+      "punctuated": "awkwardly,",
+      "start": 22.48,
+      "end": 23.146
+    },
+    {
+      "word": "you",
+      "punctuated": "you",
+      "start": 23.146,
+      "end": 23.368
+    },
+    {
+      "word": "physically",
+      "punctuated": "physically",
+      "start": 23.368,
+      "end": 24.108
+    },
+    {
+      "word": "crush",
+      "punctuated": "crush",
+      "start": 24.108,
+      "end": 24.478
+    },
+    {
+      "word": "this",
+      "punctuated": "this",
+      "start": 24.478,
+      "end": 24.774
+    },
+    {
+      "word": "nerve",
+      "punctuated": "nerve",
+      "start": 24.774,
+      "end": 25.144
+    },
+    {
+      "word": "against",
+      "punctuated": "against",
+      "start": 25.144,
+      "end": 25.662
+    },
+    {
+      "word": "bone",
+      "punctuated": "bone.",
+      "start": 25.662,
+      "end": 25.956
+    },
+    {
+      "word": "This",
+      "punctuated": "This",
+      "start": 25.956,
+      "end": 26.237
+    },
+    {
+      "word": "compression",
+      "punctuated": "compression",
+      "start": 26.237,
+      "end": 27.009
+    },
+    {
+      "word": "starves",
+      "punctuated": "starves",
+      "start": 27.009,
+      "end": 27.5
+    },
+    {
+      "word": "the",
+      "punctuated": "the",
+      "start": 27.5,
+      "end": 27.711
+    },
+    {
+      "word": "nerve",
+      "punctuated": "nerve",
+      "start": 27.711,
+      "end": 28.062
+    },
+    {
+      "word": "fibers",
+      "punctuated": "fibers",
+      "start": 28.062,
+      "end": 28.483
+    },
+    {
+      "word": "of",
+      "punctuated": "of",
+      "start": 28.483,
+      "end": 28.663
+    },
+    {
+      "word": "oxygen",
+      "punctuated": "oxygen,",
+      "start": 28.663,
+      "end": 29.084
+    },
+    {
+      "word": "choking",
+      "punctuated": "choking",
+      "start": 29.084,
+      "end": 29.575
+    },
+    {
+      "word": "off",
+      "punctuated": "off",
+      "start": 29.575,
+      "end": 29.786
+    },
+    {
+      "word": "the",
+      "punctuated": "the",
+      "start": 29.786,
+      "end": 29.997
+    },
+    {
+      "word": "electrical",
+      "punctuated": "electrical",
+      "start": 29.997,
+      "end": 30.699
+    },
+    {
+      "word": "signals",
+      "punctuated": "signals",
+      "start": 30.699,
+      "end": 31.19
+    },
+    {
+      "word": "to",
+      "punctuated": "to",
+      "start": 31.19,
+      "end": 31.37
+    },
+    {
+      "word": "your",
+      "punctuated": "your",
+      "start": 31.37,
+      "end": 31.651
+    },
+    {
+      "word": "brain",
+      "punctuated": "brain.",
+      "start": 31.651,
+      "end": 31.924
+    },
+    {
+      "word": "Your",
+      "punctuated": "Your",
+      "start": 31.924,
+      "end": 32.426
+    },
+    {
+      "word": "foot",
+      "punctuated": "foot",
+      "start": 32.426,
+      "end": 32.928
+    },
+    {
+      "word": "goes",
+      "punctuated": "goes",
+      "start": 32.928,
+      "end": 33.43
+    },
+    {
+      "word": "numb",
+      "punctuated": "numb.",
+      "start": 33.43,
+      "end": 33.934
+    },
+    {
+      "word": "When",
+      "punctuated": "When",
+      "start": 33.934,
+      "end": 34.227
+    },
+    {
+      "word": "you",
+      "punctuated": "you",
+      "start": 34.227,
+      "end": 34.447
+    },
+    {
+      "word": "finally",
+      "punctuated": "finally",
+      "start": 34.447,
+      "end": 34.96
+    },
+    {
+      "word": "stand",
+      "punctuated": "stand",
+      "start": 34.96,
+      "end": 35.327
+    },
+    {
+      "word": "up",
+      "punctuated": "up",
+      "start": 35.327,
+      "end": 35.507
+    },
+    {
+      "word": "and",
+      "punctuated": "and",
+      "start": 35.507,
+      "end": 35.727
+    },
+    {
+      "word": "release",
+      "punctuated": "release",
+      "start": 35.727,
+      "end": 36.24
+    },
+    {
+      "word": "the",
+      "punctuated": "the",
+      "start": 36.24,
+      "end": 36.46
+    },
+    {
+      "word": "pressure",
+      "punctuated": "pressure,",
+      "start": 36.46,
+      "end": 37.047
+    },
+    {
+      "word": "oxygen",
+      "punctuated": "oxygen",
+      "start": 37.047,
+      "end": 37.487
+    },
+    {
+      "word": "suddenly",
+      "punctuated": "suddenly",
+      "start": 37.487,
+      "end": 38.074
+    },
+    {
+      "word": "floods",
+      "punctuated": "floods",
+      "start": 38.074,
+      "end": 38.514
+    },
+    {
+      "word": "back",
+      "punctuated": "back",
+      "start": 38.514,
+      "end": 38.807
+    },
+    {
+      "word": "in",
+      "punctuated": "in!",
+      "start": 38.807,
+      "end": 38.922
+    },
+    {
+      "word": "As",
+      "punctuated": "As",
+      "start": 38.922,
+      "end": 39.102
+    },
+    {
+      "word": "the",
+      "punctuated": "the",
+      "start": 39.102,
+      "end": 39.33
+    },
+    {
+      "word": "starved",
+      "punctuated": "starved",
+      "start": 39.33,
+      "end": 39.863
+    },
+    {
+      "word": "neurons",
+      "punctuated": "neurons",
+      "start": 39.863,
+      "end": 40.396
+    },
+    {
+      "word": "reboot",
+      "punctuated": "reboot,",
+      "start": 40.396,
+      "end": 40.853
+    },
+    {
+      "word": "they",
+      "punctuated": "they",
+      "start": 40.853,
+      "end": 41.158
+    },
+    {
+      "word": "fire",
+      "punctuated": "fire",
+      "start": 41.158,
+      "end": 41.463
+    },
+    {
+      "word": "wildly",
+      "punctuated": "wildly",
+      "start": 41.463,
+      "end": 41.92
+    },
+    {
+      "word": "and",
+      "punctuated": "and",
+      "start": 41.92,
+      "end": 42.148
+    },
+    {
+      "word": "uncontrollably",
+      "punctuated": "uncontrollably",
+      "start": 42.148,
+      "end": 43.214
+    },
+    {
+      "word": "like",
+      "punctuated": "like",
+      "start": 43.214,
+      "end": 43.519
+    },
+    {
+      "word": "chaotic",
+      "punctuated": "chaotic",
+      "start": 43.519,
+      "end": 44.052
+    },
+    {
+      "word": "static",
+      "punctuated": "static",
+      "start": 44.052,
+      "end": 44.509
+    },
+    {
+      "word": "electricity",
+      "punctuated": "electricity!",
+      "start": 44.509,
+      "end": 45.319
+    },
+    {
+      "word": "Your",
+      "punctuated": "Your",
+      "start": 45.319,
+      "end": 45.58
+    },
+    {
+      "word": "brain",
+      "punctuated": "brain",
+      "start": 45.58,
+      "end": 45.906
+    },
+    {
+      "word": "can't",
+      "punctuated": "can't",
+      "start": 45.906,
+      "end": 46.232
+    },
+    {
+      "word": "decode",
+      "punctuated": "decode",
+      "start": 46.232,
+      "end": 46.623
+    },
+    {
+      "word": "this",
+      "punctuated": "this",
+      "start": 46.623,
+      "end": 46.884
+    },
+    {
+      "word": "sudden",
+      "punctuated": "sudden",
+      "start": 46.884,
+      "end": 47.275
+    },
+    {
+      "word": "avalanche",
+      "punctuated": "avalanche",
+      "start": 47.275,
+      "end": 47.862
+    },
+    {
+      "word": "of",
+      "punctuated": "of",
+      "start": 47.862,
+      "end": 48.042
+    },
+    {
+      "word": "random",
+      "punctuated": "random",
+      "start": 48.042,
+      "end": 48.433
+    },
+    {
+      "word": "signals",
+      "punctuated": "signals,",
+      "start": 48.433,
+      "end": 48.89
+    },
+    {
+      "word": "so",
+      "punctuated": "so",
+      "start": 48.89,
+      "end": 49.07
+    },
+    {
+      "word": "it",
+      "punctuated": "it",
+      "start": 49.07,
+      "end": 49.25
+    },
+    {
+      "word": "translates",
+      "punctuated": "translates",
+      "start": 49.25,
+      "end": 49.902
+    },
+    {
+      "word": "the",
+      "punctuated": "the",
+      "start": 49.902,
+      "end": 50.098
+    },
+    {
+      "word": "chaos",
+      "punctuated": "chaos",
+      "start": 50.098,
+      "end": 50.424
+    },
+    {
+      "word": "as",
+      "punctuated": "as",
+      "start": 50.424,
+      "end": 50.604
+    },
+    {
+      "word": "that",
+      "punctuated": "that",
+      "start": 50.604,
+      "end": 50.865
+    },
+    {
+      "word": "sharp",
+      "punctuated": "sharp,",
+      "start": 50.865,
+      "end": 51.191
+    },
+    {
+      "word": "prickly",
+      "punctuated": "prickly",
+      "start": 51.191,
+      "end": 51.648
+    },
+    {
+      "word": "burning",
+      "punctuated": "burning",
+      "start": 51.648,
+      "end": 52.105
+    },
+    {
+      "word": "sensation",
+      "punctuated": "sensation",
+      "start": 52.105,
+      "end": 52.692
+    },
+    {
+      "word": "until",
+      "punctuated": "until",
+      "start": 52.692,
+      "end": 53.018
+    },
+    {
+      "word": "the",
+      "punctuated": "the",
+      "start": 53.018,
+      "end": 53.214
+    },
+    {
+      "word": "nerve",
+      "punctuated": "nerve",
+      "start": 53.214,
+      "end": 53.54
+    },
+    {
+      "word": "pathway",
+      "punctuated": "pathway",
+      "start": 53.54,
+      "end": 53.997
+    },
+    {
+      "word": "stabilizes",
+      "punctuated": "stabilizes!",
+      "start": 53.997,
+      "end": 54.449
+    }
+  ]
+}

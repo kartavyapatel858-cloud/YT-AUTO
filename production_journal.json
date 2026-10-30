@@ -1,0 +1,132 @@
+{
+  "channel": {
+    "name": "NEUROCORE 3D",
+    "handle": "@NeuroCore3D",
+    "topic": "3D Science, Neuroscience & Human Anatomy Explainers (Zack D. Films style)",
+    "specs": {
+      "resolution": "1080x1920",
+      "aspect_ratio": "9:16",
+      "target_fps": 30,
+      "ideal_duration": "42-46s",
+      "voice_narrator": "en-US-GuyNeural (+1% rate, +0Hz pitch)",
+      "captions": "Impact 54pt uppercase, WebkitTextStroke 2.6px #000, active word #FFE600 with spring micro-overshoot, 900x1400 safe area at top 1380px",
+      "audio_mix": "Soundtrack ducked to -18dB (0.14 volume) under speech, master normalized"
+    },
+    "critical_visual_rules": [
+      "NO 2D geometric vector ripple rings/radar circles over characters/organs. They look cheap and amateurish.",
+      "Use physical spring camera jolts/shakes (damping spring) on shock impact frames for visceral weight.",
+      "NO low-res turbo diffusion artifacts. Ground visual assets in studio 3D references first.",
+      "All text and focal action must sit strictly inside the 900x1400 center box, clearing bottom 320px for YouTube UI.",
+      "Remotion composition IDs must only use hyphens and alphanumeric characters (NO underscores).",
+      "Always include formal peer-reviewed research citations in description.",
+      "Always set COPPA audience to 'No, it is not made for kids'."
+    ],
+    "instagram": {
+      "handle": "@neurocore3d",
+      "url": "https://www.instagram.com/neurocore3d/",
+      "display_name": "NEUROCORE 3D"
+    }
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Why You Can't Tickle Yourself! 🧠⚡ #Shorts",
+      "url": "https://youtube.com/shorts/XP3knS_0qn0",
+      "master_file": "published_masters/ep01_tickle.mp4",
+      "citations": [
+        "Blakemore et al. (1998) Nature Neuroscience",
+        "Blakemore et al. (2000) NeuroReport"
+      ],
+      "key_learning": "Established Zack D. Films 3D CGI aesthetic, subsurface scattering cutaways, and efference copy science."
+    },
+    {
+      "episode": 2,
+      "title": "What ACTUALLY Causes Brain Freeze? 🍦⚡ #Shorts",
+      "url": "https://youtube.com/shorts/IWmlIKNaI6I",
+      "master_file": "published_masters/ep02_brain_freeze.mp4",
+      "citations": [
+        "Serrador et al. (2012) FASEB Journal",
+        "Kaczorowski & Kaczorowski (2002) BMJ"
+      ],
+      "key_learning": "Transitioned narrator permanently to GuyNeural. Replaced 2D blue concentric rings with physical camera recoil."
+    },
+    {
+      "episode": 3,
+      "title": "Why You Get Goosebumps When Scared! 😱⚡ #Shorts",
+      "url": "https://youtube.com/shorts/UUmsy6bSoiY",
+      "master_file": "published_masters/ep03_goosebumps.mp4",
+      "citations": [
+        "Cannon (1929) Bodily Changes in Pain, Hunger, Fear and Rage",
+        "Zhang et al. (2020) Cell/Nature"
+      ],
+      "key_learning": "Fully migrated animation pipeline to Remotion 4.0 React engine with spring physics and zero vector rings."
+    },
+    {
+      "episode": 4,
+      "title": "Why Do You Jerk Awake Just Before Sleeping? (The Hypnic Jerk) ⚡💤 #Shorts",
+      "url": "Pending upload",
+      "master_file": "published_masters/episode_04_hypnic_jerk.mp4",
+      "citations": [
+        "Vetrugno & Montagna (2011) Sleep Medicine",
+        "Broughton (1988) Sleep"
+      ],
+      "key_learning": "Strict 0-compromise 3D anatomical CGI standard: 6 dedicated curated medical models with 0 cross-episode reuse. Precise audio slam and camera recoil at 36.03s (motor cortex emergency shock). Kinetic typography centered with 1400px height safe margin.",
+      "file_size": "43.2 MB",
+      "duration": "46.73s",
+      "resolution": "1080x1920",
+      "visual_assets": [
+        "public/ep4/shot1_bed_sleeping.png (Pixabay ID 8680496)",
+        "public/ep4/shot2_brain_sleep_init.jpg (Pixabay ID 8825822)",
+        "public/ep4/shot3_muscles_relaxing.jpg (Pixabay ID 8985928)",
+        "public/ep4/shot4_brainstem_falling_battle.jpg (Pixabay ID 8152918)",
+        "public/ep4/shot5_spine_emergency_shock.jpg (Pixabay ID 6081933)",
+        "public/ep4/shot6_startled_awake_reality.jpg (Pixabay ID 6728232)"
+      ]
+    },
+    {
+      "episode": 5,
+      "title": "What ACTUALLY Makes Your Knuckles Crack? 💥🦴 #Shorts",
+      "url": "Pending upload",
+      "master_file": "published_masters/episode_05_knuckle_crack.mp4",
+      "citations": [
+        "Kawchuk et al. (2015) Real-Time Visualization of Joint Cavitation, PLOS ONE",
+        "Unger (1998) Does knuckle cracking lead to arthritis of the fingers?, Arthritis & Rheumatism (Ig Nobel Prize in Medicine 2009)"
+      ],
+      "key_learning": "100% bespoke 3D medical CGI pipeline with zero slop: 6 dedicated 9:16 anatomical visuals depicting synovial fluid negative pressure, nitrogen vapor cavitation bubble formation, and supersonic acoustic collapse shockwave. Frame-accurate audio slam and damping spring recoil timed exactly to 36.01s (frame 1080). Subtitles centered inside safe zone with #FFE600 active highlights.",
+      "file_size": "44.6 MB",
+      "duration": "51.55s",
+      "resolution": "1080x1920",
+      "visual_assets": [
+        "public/ep5/shot1_cracking_hand.png (3D CGI Zack D. character bending index knuckle)",
+        "public/ep5/shot2_joint_capsule_anatomy.png (3D anatomical MCP joint cutaway & amber synovial fluid)",
+        "public/ep5/shot3_vacuum_stretch.png (Mechanical joint capsule expansion under negative pressure)",
+        "public/ep5/shot4_cavitation_bubble_forms.png (Microscopic nitrogen cavitation bubble nucleation)",
+        "public/ep5/shot5_bubble_collapse_shockwave.png (Supersonic bubble collapse shockwave impact at 36.01s)",
+        "public/ep5/shot6_healthy_hands_60years.png (Dr. Donald Unger 60-year dual-hand comparison & X-ray)"
+      ],
+      "audio_boost": "+15% (1.15x / +1.2dB, peak -6.4dB)"
+    },
+    {
+      "episode": 6,
+      "title": "Why Do You Get \"Pins and Needles\"? ⚡🦵 #Shorts",
+      "url": "Pending upload",
+      "master_file": "published_masters/episode_06_pins_and_needles.mp4",
+      "citations": [
+        "Ochoa & Torebjörk (1980) Paraesthesiae from artificial stimulation of a single sensory motor unit in man, Brain",
+        "Dahlin & McLean (1986) Effects of graded compression on nerve conduction, Journal of Hand Surgery"
+      ],
+      "key_learning": "Hybrid Remotion 4.0 + HyperFrames media workflow: 100% bespoke 3D medical CGI visuals illustrating focal nerve compression, ischemic conduction block, oxygenated reperfusion, and explosive chaotic neural reboot. Frame-accurate glitch static SFX and damping spring camera recoil timed to 40.40s. Subtitles centered inside safe zone with #FFE600 active highlights and +15% audio boost.",
+      "file_size": "53.1 MB",
+      "duration": "54.47s",
+      "resolution": "1080x1920",
+      "visual_assets": [
+        "public/ep6/shot1_numb_foot_hook.png (3D CGI Zack D. character sitting on numb leg)",
+        "public/ep6/shot2_sciatic_nerve_anatomy.png (3D anatomical leg cutaway with glowing sciatic nerve)",
+        "public/ep6/shot3_compressed_nerve_ischemia.png (Mechanical nerve bundle pinch & signal choke)",
+        "public/ep6/shot4_oxygen_rush_release.png (Nerve decompression & oxygenated red blood cell rush)",
+        "public/ep6/shot5_chaotic_neural_static_climax.png (Climax hyperactive bio-electric neural storm)",
+        "public/ep6/shot6_pins_needles_radiating.png (Semi-translucent leg with radiating needle sparks & brain inset)"
+      ]
+    }
+  ]
+}
